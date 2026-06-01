@@ -38,7 +38,10 @@ _See GitHub Issues tab for live task list._
 
 | # | Issue Title | Assigned To | Status |
 |---|-------------|-------------|--------|
-| 1 | FOR CLAUDE — Fix active Shoulder Bag campaign destination and verify funnel | Claude | 🔲 Pending diagnosis |
+| 1 | FOR CLAUDE — Fix active Shoulder Bag campaign destination and verify funnel | Claude | ✅ Diagnosis done — awaiting approval for fixes |
+| 2 | FOR ABD — Manually confirm ad destination URL in Ads Manager | Abd | 🔲 Pending |
+| 3 | FOR ABD — Confirm: publish or discard the 1 draft ad in Ads Manager | Abd | 🔲 Pending |
+| 4 | FOR CHATGPT — Approve: enable guest checkout on abdleather.com | ChatGPT | 🔲 Awaiting approval |
 
 ### Task 1 Detail: FOR CLAUDE — Fix active Shoulder Bag campaign destination and verify funnel
 
