@@ -34,8 +34,34 @@ _See GitHub Issues tab for live task list._
 
 ---
 
+## Open Tasks
+
+| # | Issue Title | Assigned To | Status |
+|---|-------------|-------------|--------|
+| 1 | FOR CLAUDE — Fix active Shoulder Bag campaign destination and verify funnel | Claude | 🔲 Pending diagnosis |
+
+### Task 1 Detail: FOR CLAUDE — Fix active Shoulder Bag campaign destination and verify funnel
+
+**Campaign:** ABD Leather — Shoulder Bag — Sales — PK Cities  
+**Problem:** Clicks coming in but 0 purchases recorded.  
+**Claude must diagnose (before any changes):**
+1. What URL does the ad currently link to? Is it correct and loading properly?
+2. Is the product page (Handmade Leather Shoulder Bag) functional — can a user actually add to cart and complete checkout?
+3. Is the Purchase pixel event firing on the order confirmation page for this product?
+4. Is there any redirect issue, 404 error, or WooCommerce cart/checkout problem?
+
+**Claude must NOT:**
+- Change the destination URL without approval
+- Edit any pixel code without approval
+- Pause or modify the campaign without approval
+
+**Claude reports findings to ChatGPT, then awaits approval before any fix.**
+
+---
+
 ## Completed Tasks
 
 | Date | Task | Result |
 |------|------|--------|
 | 2026-06-01 | Set up meta-ads-by-claude GitHub repo | ✅ Done — repo live at github.com/abdleather/meta-ads-by-claude |
+| 2026-06-01 | Correct repo — add real active Shoulder Bag campaign | ✅ Done — all files updated |

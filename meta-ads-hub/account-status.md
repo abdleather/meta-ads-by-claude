@@ -46,6 +46,7 @@ _Last updated: 2026-06-01_
 ## Known Issues / Open Problems
 
 - Business verification not yet completed — user needs to upload identity documents in Meta Business Suite.
+- Active campaign (Shoulder Bag) is getting clicks but **0 purchases** — destination URL, tracking, and product page funnel need investigation.
 - No custom audiences created yet.
 - No lookalike audiences created yet.
 - Retargeting campaigns not yet set up.

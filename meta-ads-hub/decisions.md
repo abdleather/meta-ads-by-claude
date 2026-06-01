@@ -28,4 +28,13 @@ _ChatGPT makes the call. Claude logs it. Abd approves budget/spend._
 
 ---
 
+### 2026-06-01 — Correct Repo: Active Shoulder Bag Campaign
+
+**Decision:** Update repo to reflect that the Shoulder Bag campaign is already active (not "no campaigns yet"). Prioritize diagnosing the 0-purchase problem before any new campaigns.  
+**Reason:** Repo was initialized with incorrect "no active campaigns" status. Abd corrected this — campaign "ABD Leather — Shoulder Bag — Sales — PK Cities" is live at Rs 500/day with clicks but 0 purchases.  
+**Approved by:** Abd (Abdullah)  
+**Outcome:** ✅ Repo corrected. Diagnosis task created. No changes to ads or website yet.
+
+---
+
 _New decisions go above this line, newest first._
